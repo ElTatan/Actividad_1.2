@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">activity</string>
+    <string name="enviar">enviar</string>
+    <string name="regresar">regresar</string>
+    <string name="nombre1">nombre</string>
+    <string name="nombre2">nombre2</string>
+</resources>
